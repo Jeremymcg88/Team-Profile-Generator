@@ -60,11 +60,11 @@ npm run test
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at jeremy.mcguirk@gmail.com. You can find more of my work at [Github](https://github.com/jeremymcg88).;
+If you have any questions about the repo, open an issue or contact me directly at jeremy.mcguirk@gmail.com. You can find more of my work at [Github](https://github.com/jeremymcg88).
 
 ## Walkthrough-Video
 
-Location of walkthrough can be found here 
+Location of walkthrough can be found here https://watch.screencastify.com/v/70N5ky1Y4j7xY0KNERjc
 
 ## Repository
 

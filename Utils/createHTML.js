@@ -3,7 +3,7 @@ const path = require('path');
 const fs = require('fs');
 const generateStyles = require('../Utils/createCSS');
 
-// This function creates team member cards in HTML
+// This function creates team member cards in HTML and utilizes Boostrap for styling
 const memberCards = (member) => {
     let cardHTML = "";
     member.forEach((member) => {
